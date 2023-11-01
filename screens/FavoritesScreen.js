@@ -5,6 +5,7 @@ function FavoritesScreen () {
     return (
         <View>
             <Text>Favorite screen</Text>
+            <Text>Favorite meal details</Text>
         </View>
     )
 };
